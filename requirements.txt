@@ -1,10 +1,12 @@
-mlflow
+mlflow~=1.26.1
 jupyter
-scikit-learn
-pandas
+scikit-learn~=1.1.1
+pandas~=1.4.2
 seaborn
 hyperopt
 xgboost
 fastparquet
 boto3
 prefect==2.0b5
+requests~=2.27.1
+Flask~=2.1.2
