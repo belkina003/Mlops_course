@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c85328f3-0c8d-43ac-8b64-d877db15eb3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework 3/data/fhv_tripdata_2021-01.parquet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework 3/data/fhv_tripdata_2021-02.parquet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework 3/homework.py" afterDir="false" />
+    <list default="true" id="1795647c-d9d7-4064-a385-761f56f77315" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homework 4/data/fhv_tripdata_2021-02.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework 4/predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework 4/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,18 +39,19 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/olgalogackaa/PycharmProjects/Mlops_course/homework 3&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/olgalogackaa/PycharmProjects/Mlops_course/homework 4/data&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework 4/data" />
       <recent name="$PROJECT_DIR$/homework 3" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c85328f3-0c8d-43ac-8b64-d877db15eb3f" name="Changes" comment="" />
+      <changelist id="1795647c-d9d7-4064-a385-761f56f77315" name="Changes" comment="" />
       <created>1654368320149</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
